@@ -1,37 +1,37 @@
 {
     ItemGiverChained: [
     ],
-    ItemGiversList: [
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        },
+        {
+            Points: 1000,
+            Faction: 1
+        },
+        {
+            Points: 0,
+            Faction: 2
+        }
     ],
     BankData: [
     ],
-    PlayerCompanionId: 0,
+    ItemGiversList: [
+    ],
     MailData: [
     ],
-    UUID: "9e107308-346e-ef4f-eb69-a42fcc998eb0",
+    PlayerName: "konglf",
     QuestData: {
         CompletedQuests: [
         ],
         ActiveQuests: [
         ]
     },
-    TransportData: [
-    ],
-    PlayerName: "konglf",
-    FactionData: [
-        {
-            Faction: 0,
-            Points: 2000
-        },
-        {
-            Faction: 1,
-            Points: 1000
-        },
-        {
-            Faction: 2,
-            Points: 0
-        }
-    ],
+    UUID: "9e107308-346e-ef4f-eb69-a42fcc998eb0",
+    PlayerCompanionId: 0,
     DialogData: [
     ]
 }
