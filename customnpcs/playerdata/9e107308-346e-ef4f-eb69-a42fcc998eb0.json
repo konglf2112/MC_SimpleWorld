@@ -1,0 +1,37 @@
+{
+    ItemGiverChained: [
+    ],
+    ItemGiversList: [
+    ],
+    BankData: [
+    ],
+    PlayerCompanionId: 0,
+    MailData: [
+    ],
+    UUID: "9e107308-346e-ef4f-eb69-a42fcc998eb0",
+    QuestData: {
+        CompletedQuests: [
+        ],
+        ActiveQuests: [
+        ]
+    },
+    TransportData: [
+    ],
+    PlayerName: "konglf",
+    FactionData: [
+        {
+            Faction: 0,
+            Points: 2000
+        },
+        {
+            Faction: 1,
+            Points: 1000
+        },
+        {
+            Faction: 2,
+            Points: 0
+        }
+    ],
+    DialogData: [
+    ]
+}
